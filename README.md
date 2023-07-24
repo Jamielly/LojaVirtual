@@ -4,3 +4,5 @@ Projeto de um site Web com o objetivo de melhorar as técnicas aprendidas em aul
 Linguagens utilizadas: 
 JavaScript, Html e Css
 
+O código está na ramificação master 
+
